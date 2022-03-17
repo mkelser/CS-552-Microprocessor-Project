@@ -1,0 +1,162 @@
+{C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor2
+
+Top level modules:
+	xor2
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clkrst
+
+Top level modules:
+	clkrst
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decode
+
+Top level modules:
+	decode
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc
+
+Top level modules:
+	proc
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder1
+
+Top level modules:
+	fulladder1
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory2c
+
+Top level modules:
+	memory2c
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder4
+
+Top level modules:
+	fulladder4
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cu
+
+Top level modules:
+	cu
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nor2
+
+Top level modules:
+	nor2
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module not1
+
+Top level modules:
+	not1
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fetch
+
+Top level modules:
+	fetch
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module write
+
+Top level modules:
+	write
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc_hier
+
+Top level modules:
+	proc_hier
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nand2
+
+Top level modules:
+	nand2
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bit_shifter
+
+Top level modules:
+	bit_shifter
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module execute
+
+Top level modules:
+	execute
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cla4
+
+Top level modules:
+	cla4
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cla16
+
+Top level modules:
+	cla16
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rf
+
+Top level modules:
+	rf
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module r16
+
+Top level modules:
+	r16
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module proc_hier_bench
+
+Top level modules:
+	proc_hier_bench
+
+} {} {}} {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v} {1 {vlog -work work -stats=none {C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fulladder16
+
+Top level modules:
+	fulladder16
+
+} {} {}}

@@ -1,0 +1,586 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Homework/Homework 3/hw3/hw3_1
+valu
+Z0 !s110 1636528653
+!i10b 1
+!s100 WHQjUj3<8<7[foei@9Lo40
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I^1n?GcVZ5cXYi>l1SL_?i2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined
+w1636528645
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/alu.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/alu.v
+!i122 47
+L0 1 86
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1636528653.000000
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/alu.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbit_shifter
+R0
+!i10b 1
+!s100 aOme>SCUZXO[N2UkbT^232
+R1
+IGLCTfOgcRHT`Dle:^9eB]3
+R2
+R3
+w1633662162
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v
+!i122 48
+L0 1 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/bit_shifter.v|
+!i113 1
+R6
+R7
+vcla16
+R0
+!i10b 1
+!s100 h`WWYSIe>88Lkmb5oP5DK0
+R1
+ILYAi4<Y232Y4b@BKgk=Vg1
+R2
+R3
+w1633663572
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v
+!i122 50
+L0 2 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla16.v|
+!i113 1
+R6
+R7
+vcla4
+R0
+!i10b 1
+!s100 [I`;]o[YHzJ[<i=1F?2@90
+R1
+I_T=J]7XmNPQKJAUlX9Q[g2
+R2
+R3
+w1633664537
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v
+!i122 49
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cla4.v|
+!i113 1
+R6
+R7
+vclkrst
+R0
+!i10b 1
+!s100 Eb@RK46?g=V]XMJ3JbgOG3
+R1
+IP:=;>OlYU9?_f7]92;YN=3
+R2
+R3
+w1455742711
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v
+!i122 51
+L0 12 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/clkrst.v|
+!i113 1
+R6
+R7
+vcu
+R0
+!i10b 1
+!s100 fR7o:b]0G_R@80i?NQ18M2
+R1
+I:;I2:<IhEzD3<BO`TQRfm3
+R2
+R3
+Z8 w1636528619
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v
+!i122 52
+L0 1 298
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/cu.v|
+!i113 1
+R6
+R7
+vdecode
+R0
+!i10b 1
+!s100 aCz`0=^@_c1@3;TfTXlZb1
+R1
+IUWGFjohciR43G>M]17HO01
+R2
+R3
+R8
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v
+!i122 53
+L0 1 74
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/decode.v|
+!i113 1
+R6
+R7
+vdff
+R0
+!i10b 1
+!s100 9ioan2i;Y:Fi:S61Uzibo0
+R1
+IKJ3Jn;bUkmV1Z?`DS=cEZ0
+R2
+R3
+w1455742704
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v
+!i122 54
+L0 6 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/dff.v|
+!i113 1
+R6
+R7
+vexecute
+R0
+!i10b 1
+!s100 7hchDE<=[b1j[?1K7OGZ_2
+R1
+IjPKb1nH>@G<IWZmNT__BE3
+R2
+R3
+Z9 w1636526524
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v
+!i122 55
+L0 1 94
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/execute.v|
+!i113 1
+R6
+R7
+vfetch
+Z10 !s110 1636528654
+!i10b 1
+!s100 9aNcJNCD5]1E18U2IiafW1
+R1
+I]@H`jh^>9QQMo]O;2<7;Q1
+R2
+R3
+w1636326465
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v
+!i122 56
+L0 2 29
+R4
+r1
+!s85 0
+31
+Z11 !s108 1636528654.000000
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fetch.v|
+!i113 1
+R6
+R7
+vfulladder1
+R10
+!i10b 1
+!s100 2NiPYl9QSMfIU4zh[gNj:1
+R1
+I?X:b7AUQBJH5;cK09Q6SM3
+R2
+R3
+w1635211339
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v
+!i122 57
+L0 2 23
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder1.v|
+!i113 1
+R6
+R7
+vfulladder16
+R10
+!i10b 1
+!s100 6CVOBMY?aO:gDHKo=YQW`0
+R1
+I47^m4]D6dnAJf<6d<`d541
+R2
+R3
+w1635211340
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v
+!i122 59
+L0 2 15
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder16.v|
+!i113 1
+R6
+R7
+vfulladder4
+R10
+!i10b 1
+!s100 Kf3bEP;TKGHVb:d@;>G>m3
+R1
+I_K<me8AYiW_TX_TL^cPjS1
+R2
+R3
+w1635211342
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v
+!i122 58
+L0 2 16
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/fulladder4.v|
+!i113 1
+R6
+R7
+vmemory
+R10
+!i10b 1
+!s100 ^S^<c82XjB]kCXFE[z44?2
+R1
+IcJzG>:Y0zZ5V<<njASY962
+R2
+R3
+R9
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory.v
+!i122 60
+L0 2 74
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory.v|
+!i113 1
+R6
+R7
+vmemory2c
+R10
+!i10b 1
+!s100 VIdP5eoOcAlj5c<4k1=zQ0
+R1
+I[1W]mSV:<UiS0ndUV2E7Q1
+R2
+R3
+w1455742820
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v
+!i122 61
+L0 35 58
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/memory2c.v|
+!i113 1
+R6
+R7
+vnand2
+R10
+!i10b 1
+!s100 mPYEL7;f`6nkGn_SzPizL3
+R1
+I83KHW5zJKXBD^CY:RBCVV3
+R2
+R3
+w1635212091
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v
+!i122 62
+Z12 L0 1 5
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nand2.v|
+!i113 1
+R6
+R7
+vnor2
+R10
+!i10b 1
+!s100 ]<=SbeO2BIUIJ?H`?1h4Z1
+R1
+Ib`3UKRPZZJ@5WIDzV0e<U3
+R2
+R3
+w1635212093
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v
+!i122 63
+R12
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/nor2.v|
+!i113 1
+R6
+R7
+vnot1
+R10
+!i10b 1
+!s100 6zWQR[eXbVBE]n10Le^k43
+R1
+Ie`S2c7KTAS=iCMiUm>3^33
+R2
+R3
+w1635212094
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v
+!i122 64
+R12
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/not1.v|
+!i113 1
+R6
+R7
+vproc
+R10
+!i10b 1
+!s100 @mUC5T4FVJ2zTo3HbR`T:0
+R1
+I]W8QS:l0AbAR^;Wagd95f1
+R2
+R3
+w1636524247
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v
+!i122 65
+L0 1 252
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc.v|
+!i113 1
+R6
+R7
+vproc_hier
+R10
+!i10b 1
+!s100 Q]aK6f6AMzka6chAi]1Hj3
+R1
+IJzb:<2n0`KzCGMf>[_<?Y3
+R2
+R3
+w1455742731
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v
+!i122 66
+L0 6 24
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier.v|
+!i113 1
+R6
+R7
+vproc_hier_bench
+R10
+!i10b 1
+!s100 @7;IJ2Oh_n[bN9flWzQY62
+R1
+Ik2PRSn^KGmkh0G7Z4aLf=1
+R2
+R3
+w1455745214
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v
+!i122 67
+L0 4 154
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/proc_hier_bench.v|
+!i113 1
+R6
+R7
+vr16
+R10
+!i10b 1
+!s100 j7YCCVmCUG>^onMB6BD8L3
+R1
+IT>@HRL9V2[HS:JfQC[Fe13
+R2
+R3
+w1635212101
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v
+!i122 68
+L0 1 10
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/r16.v|
+!i113 1
+R6
+R7
+vrf
+R10
+!i10b 1
+!s100 IcG]YQ8?bD20>i_701WnR3
+R1
+IMM@<R]]0GXP9f>c6]EoZ?3
+R2
+R3
+w1635212102
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v
+!i122 69
+L0 4 59
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/rf.v|
+!i113 1
+R6
+R7
+vwrite
+Z13 !s110 1636528655
+!i10b 1
+!s100 _767lH[nJeTET@;Dd5_E71
+R1
+IIXONV^OTgaQ;U]?lF[KMm3
+R2
+R3
+R9
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v
+!i122 70
+L0 1 24
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/write.v|
+!i113 1
+R6
+R7
+vxor2
+R13
+!i10b 1
+!s100 A6b^WoDP:WRgA5G=0Cm;30
+R1
+I@WC=PoZGZz=EYM:=P9>Q32
+R2
+R3
+w1635212126
+8C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v
+FC:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v
+!i122 71
+R12
+R4
+r1
+!s85 0
+31
+!s108 1636528655.000000
+!s107 C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mtthw/School/2021-2022/Fall 2021/CS 552/Project/Unpipelined Single-Cycle Implementation/project-unpipelined/xor2.v|
+!i113 1
+R6
+R7
